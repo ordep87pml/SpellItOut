@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\bin\Debug\SpellItOut.exe.config
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\bin\Debug\SpellItOut.exe
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\bin\Debug\SpellItOut.pdb
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\obj\Debug\SpellItOut.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\obj\Debug\SpellItOut.exe
+C:\Users\Pedro\Desktop\SpellItOut\SpellItOut\obj\Debug\SpellItOut.pdb
