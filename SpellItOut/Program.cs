@@ -10,6 +10,27 @@ namespace SpellItOut
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Console.WriteLine("Write a number between 0 and 1 billion:");
+                Console.WriteLine(Environment.NewLine);
+                string input = Console.ReadLine();
+
+                int value;
+                if (!int.TryParse(input, out value))
+                {
+                    Console.WriteLine("Number is not a valid number");
+                }
+                else
+                {
+                    Console.WriteLine(NumberToWords.Converter(value));
+                    Console.ReadLine();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
