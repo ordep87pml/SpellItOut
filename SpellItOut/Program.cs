@@ -23,7 +23,8 @@ namespace SpellItOut
                 }
                 else
                 {
-                    Console.WriteLine(NumberToWords.Converter(value));
+                    NumberToWords conversor = new SpellItOut.NumberToWords();
+                    Console.WriteLine(conversor.Converter(value));
                     Console.ReadLine();
                 }
             }
